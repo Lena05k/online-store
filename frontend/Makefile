@@ -1,5 +1,11 @@
+install:
+	install
+
 start:
 	npm run dev
 
+build:
+	npm run build
+
 lint:
-	npx eslint .
+	npm run lint
