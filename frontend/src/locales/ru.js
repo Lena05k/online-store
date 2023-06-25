@@ -1,4 +1,3 @@
-{
-  "hello": "Привет мир",
-  "goodbye": "До свидания"
-}
+export default {
+  hello: 'Привет мир',
+};

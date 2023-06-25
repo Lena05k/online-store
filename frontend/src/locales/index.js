@@ -1,3 +1,3 @@
-import ru from '/ru.json';
+import ru from './ru.js';
 
-export const defaultLocale = 'ru';
+export default { ru };
